@@ -25,4 +25,4 @@ Contains the Texture Exporting code.
 
 Contains a custom ShaderGUI that demonstrates how to use the ShaderExporter.
 
-![Example](Example.PNG "Render")
+![Example](Example.png "Render")
