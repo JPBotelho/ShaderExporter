@@ -26,3 +26,6 @@ Contains the Texture Exporting code.
 Contains a custom ShaderGUI that demonstrates how to use the ShaderExporter.
 
 ![Example](Example.png "Render")
+
+# Consider buying me a coffee if you like my work (click the image)
+[![Foo](coffee.png)](https://www.buymeacoffee.com/ZcRuWpUBf)
